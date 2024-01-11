@@ -30,7 +30,6 @@ main {
 }
 
 ul {
-  list-style-position: inside;
   text-align: center
 }
 
@@ -126,5 +125,19 @@ nav li a.active {
   margin-left: 150px;
   width:400px;
   padding-right: 15px; 
-
   
+  
+}
+
+
+.item-logo {
+  float: right;
+  width:250px;
+  padding-left: 15px; 
+  
+}
+
+ul#remove {
+    list-style-type: none;
+    padding: 0;
+}
