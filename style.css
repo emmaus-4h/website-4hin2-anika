@@ -141,3 +141,9 @@ ul#remove {
     list-style-type: none;
     padding: 0;
 }
+
+.app {
+  float: right;
+  border-radius: 10px;
+  height: 40px;
+}
